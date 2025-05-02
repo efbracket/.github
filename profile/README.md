@@ -26,7 +26,7 @@ A flexible all-purpose AI training and experimentation platform designed for eve
 
 **Features:**
 - Drag-and-drop dataset tools  
-- Scalable training infrastructure (yes, GPUs too)  
+- Scalable training infrastructure
 - Model versioning and real-time collaboration  
 - Easy deployment via API or webhooks  
 
