@@ -38,7 +38,7 @@ Our homegrown backtesting and live trading engine.
 **What it does:**
 - Runs HFT and discretionary strategies side by side  
 - Connects to global exchanges and data feeds  
-- Supports strategy development in Python, C++, and Rust  
+- Supports strategy development in Python, C++
 - Handles real-time risk and performance metrics  
 
 ---
